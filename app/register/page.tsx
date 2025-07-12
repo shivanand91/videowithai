@@ -40,7 +40,7 @@ const Page = () => {
                 <div className="flex flex-col items-center mb-8">
                     <div className="bg-black rounded-full p-3 mb-4 shadow">
                         <svg width="36" height="36" fill="none" viewBox="0 0 24 24">
-                            <path d="M12 12c2.7 0 5-2.3 5-5s-2.3-5-5-5-5 2.3-5 5 2.3 5 5 5zm0 2c-3.3 0-10 1.7-10 5v3h20v-3c0-3.3-6.7-5-10-5z" fill="#fff"/>
+                            <path d="M12 12c2.7 0 5-2.3 5-5s-2.3-5-5-5-5 2.3-5 5 2.3 5 5 5zm0 2c-3.3 0-10 1.7-10 5v3h20v-3c0-3.3-6.7-5-10-5z" fill="#fff" />
                         </svg>
                     </div>
                     <h1 className="text-2xl font-bold text-black mb-1 tracking-tight">Create Account</h1>
